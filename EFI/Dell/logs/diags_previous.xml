@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <SupportAssistPrebootDiagnosticLog>
+    <Schema>1.0.0</Schema>
+    <LogNumber>74</LogNumber>
+    <LogTimeStamp>06/27/2020 19:31:01</LogTimeStamp>
+    <ePSA_Data>
+      <Result>Not Reported</Result>
+      <DevicesTested>Memory, Hard Drive</DevicesTested>
+      <ePSAFullVersion>4304.14</ePSAFullVersion>
+      <ePSAInvocationCount>30</ePSAInvocationCount>
+    </ePSA_Data>
+    <BIOS_Data>
+      <ErrorCategory>NO_BOOT</ErrorCategory>
+      <ErrorMessage><![CDATA[Operating System Loader has no signature. Incompatible with SecureBoot. ]]></ErrorMessage>
+      <SOS_Available>FALSE</SOS_Available>
+      <TimeOutSeconds>0</TimeOutSeconds>
+    </BIOS_Data>
+  </SupportAssistPrebootDiagnosticLog>
