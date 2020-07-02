@@ -1,4 +1,4 @@
-# opencore-dell3567-hackintosh
+# opencore-dell-3567-hackintosh
 
 ## Components
 - CPU: Intel® Core™ i7-7500U Processor (Kaby-Lake)
