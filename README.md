@@ -3,7 +3,7 @@
 ## Components
 - CPU: Intel® Core™ i7-7500U Processor (Kaby-Lake)
 - iGPU: Intel® HD Graphics 620
-- dGPU: AMD® Radeon™ M330 2GB
+- dGPU: AMD® Radeon™ R5 M430 2GB
 - LAN: Realtek® RTL8106E PCI Express Fast Ethernet
 - WiFi/Bluetooth: BCM94350ZAE (DW1820a)
 - Audio: Realtek® ALC256 High Definition Audio
