@@ -9,7 +9,7 @@
 - Audio: Realtek® ALC256 High Definition Audio
 
 ## Comments
-This Hackintosh build may NOT fully work in your default conditions. Please know you hardware and also be aware as what is supported under Apple flag and make changes accordingly. This guide has been tested on MacOS Catalina 10.15.3 and 10.15.5.
+This Hackintosh build may NOT fully work in your default conditions. Please know you hardware and also be aware as what is supported under Apple flag and make changes accordingly. If you have the components same as mine in your laptop then go right ahead and use this repo. This will be true for any laptop having these components. This guide has been tested on MacOS Catalina 10.15.3 and 10.15.5.
 
 I replaced my WiFi card from DW1810 to DW1820a and HDD to SSD.
 
