@@ -14,9 +14,9 @@ This Hackintosh build may NOT fully work in your default conditions. Please know
 I replaced my WiFi card from DW1810 to DW1820a and HDD to SSD.
 
 Special Thanks to
-- Opencore Laptop Guide (https://dortania.github.io/vanilla-laptop-guide/)
-- @acidanthera
-- @corpnewt
+- [Opencore Laptop Guide](https://dortania.github.io/vanilla-laptop-guide/)
+- [acidanthera](https://github.com/acidanthera)
+- [corpnewt](https://github.com/corpnewt)
 
 ## Not tested
 - FileVault.
