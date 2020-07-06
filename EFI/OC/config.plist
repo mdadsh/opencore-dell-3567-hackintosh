@@ -276,11 +276,6 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
-			<dict>
-				<key>AAPL,ig-platform-id</key>
-				<data>CQAWWQ==</data>
-			</dict>
 			<key>PciRoot(0x0)/Pci(0x1c,0x4)/Pci(0x0,0x0)</key>
 			<dict>
 				<key>AAPL,slot-name</key>
@@ -787,6 +782,22 @@
 				<key>BundlePath</key>
 				<string>CPUFriendDataProvider.kext</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+				<key>Enabled</key>
+				<true/>
+				<key>MinKernel</key>
+				<string></string>
+				<key>ExecutablePath</key>
+				<string></string>
+				<key>BundlePath</key>
+				<string>USBMap.kext</string>
+			</dict>
 		</array>
 		<key>Block</key>
 		<array>
@@ -1174,17 +1185,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02711306CDHRPC1F</string>
+			<string>C02744600GUJ1JHCB</string>
 			<key>ROM</key>
 			<data>CVeTNkIw</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>MacBookPro14,2</string>
+			<string>MacBookPro14,3</string>
 			<key>SystemSerialNumber</key>
-			<string>C02TF07WHV2N</string>
+			<string>C02VM8YZHTD5</string>
 			<key>SystemUUID</key>
-			<string>F6F177A6-B527-4D5D-93AA-734764B73116</string>
+			<string>6F90A6C4-CF77-4AEC-823C-A8F181EB7146</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1237,6 +1248,7 @@
 			<string>HfsPlus.efi</string>
 			<string>OpenRuntime.efi</string>
 			<string>OpenCanopy.efi</string>
+			<string>OpenCore.efi</string>
 		</array>
 		<key>Input</key>
 		<dict>
