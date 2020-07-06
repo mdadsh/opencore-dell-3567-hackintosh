@@ -17,6 +17,7 @@ Special Thanks to
 - [Opencore Laptop Guide](https://dortania.github.io/vanilla-laptop-guide/)
 - [acidanthera](https://github.com/acidanthera)
 - [corpnewt](https://github.com/corpnewt)
+- [Aleksandar Vacić](https://aplus.rs/tags/opencore)
 
 ## Not tested
 - FileVault.
