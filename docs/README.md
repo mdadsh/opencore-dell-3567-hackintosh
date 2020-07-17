@@ -2,7 +2,7 @@
 
 ## Components
 - CPU: Intel® Core™ i7-7500U Processor (Kaby-Lake)
-- iGPU: Intel® HD Graphics 620
+- iGPU: Intel® HD Graphics 620 @1920x1080 60Hz
 - dGPU: AMD® Radeon™ R5 M430 2GB
 - LAN: Realtek® RTL8106E PCI Express Fast Ethernet
 - WiFi/Bluetooth: BCM94350ZAE (DW1820a)
@@ -18,6 +18,8 @@ Special Thanks to
 - [acidanthera](https://github.com/acidanthera)
 - [corpnewt](https://github.com/corpnewt)
 - [Aleksandar Vacić](https://aplus.rs/tags/opencore)
+- [comsysto](https://comsysto.github.io/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions/)
+- [avibrazil](https://github.com/avibrazil/RDM)
 
 ## Not tested
 - FileVault.
