@@ -1,7 +1,7 @@
 ## opencore-dell-3567-hackintosh
 
 ## Upgraded to Big Sur 11.1 from Catalina 10.15.7
-<img src="/image/desktop.png?raw=true" alt="MacOS Big Sur 11.1" align="center">
+<img src="/docs/desktop.png?raw=true" alt="MacOS Big Sur 11.1" align="center">
 
 --------------------------------------------------------------------------------------------
 
