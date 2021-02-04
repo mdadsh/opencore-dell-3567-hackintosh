@@ -1,6 +1,6 @@
 # opencore-dell-3567-hackintosh
 
-#Upgraded to Big Sur 11.0 from Catalina 10.15.7
+# Upgraded to Big Sur 11.0 from Catalina 10.15.7
 ## Components
 - CPU: Intel® Core™ i7-7500U Processor (Kaby-Lake)
 - iGPU: Intel® HD Graphics 620 @1920x1080 60Hz
